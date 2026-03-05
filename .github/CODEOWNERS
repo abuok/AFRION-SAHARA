@@ -1,14 +1,13 @@
 # AFRION Sahara CODEOWNERS
 # Purpose: ensure AFRION retains final authority over critical project files.
 
-* @AFRION/owners
+@AFRION-SAHARA/owners
+/CLA.md @AFRION-SAHARA/owners
+/GOVERNANCE.md @AFRION-SAHARA/owners
+/CODE_OF_CONDUCT.md @AFRION-SAHARA/owners
+/SECURITY.md @AFRION-SAHARA/owners
 
-/CLA.md @AFRION/owners
-/GOVERNANCE.md @AFRION/owners
-/CODE_OF_CONDUCT.md @AFRION/owners
-/SECURITY.md @AFRION/owners
+/benchmarks/ @AFRION-SAHARA/owners
+/docs/ @AFRION-SAHARA/owners
 
-/benchmarks/ @AFRION/owners
-/docs/ @AFRION/owners
-
-/.github/ @AFRION/owners
+/.github/ @AFRION-SAHARA/owners
